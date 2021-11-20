@@ -3,5 +3,5 @@
   <dd>Big Data Processing and Technologies</dd>
 
   <dt>Professor</dt>
-  <ddRichard Yeh</dd>
+  <dd>Richard Yeh</dd>
 </dl>
