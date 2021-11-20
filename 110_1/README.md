@@ -5,6 +5,6 @@
   <h3><dt>Professor</dt></h3>
   <dd>Camille Hu</dd>
   
-  <h3><dt>Teaching Assistant</dt></h3>
+  <h3><dt>Teaching_Assistant</dt></h3>
   <dd>Yasmine Cheng</dd>
 </dl>
