@@ -6,5 +6,5 @@
   <dd>Camille Hu</dd>
   
   <h3><dt>Teaching Assistant</dt></h3>
-  <dd>Y</dd>
+  <dd>Yasmine Cheng</dd>
 </dl>
