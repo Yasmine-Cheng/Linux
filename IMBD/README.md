@@ -22,3 +22,7 @@ pipenv shell
 # GPU資源查詢
 nvidia-smi
 ```
+```Bash
+# 列出所有項目(包含隱藏文件夾及檔案)
+ls -al
+```
