@@ -26,3 +26,7 @@ nvidia-smi
 # 列出所有項目(包含隱藏文件夾及檔案)
 ls -al
 ```
+```Bash
+# vi文書編輯 設定行號
+vi :set number
+```
